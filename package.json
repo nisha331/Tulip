@@ -1,0 +1,29 @@
+{
+  "name": "tulip-db",
+  "version": "1.0.3",
+  "description": "opensource no sql database",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nisha331/Tulip.git"
+  },
+  "keywords": [
+    "database",
+    "no sql",
+    "local database",
+    "json data",
+    "tulip",
+    "json database",
+    "no sql database"
+  ],
+  "author": "Nisha Yadav and Shibam Naskar",
+  "license": "ISC"
+}
